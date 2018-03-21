@@ -1,0 +1,39 @@
+﻿  main.cpp
+c:\users\jason\documents\visual studio 2015\projects\cg final project\cg final project\shader.h(65): warning C4101: “infoLog”: 未引用的局部变量
+c:\users\jason\documents\visual studio 2015\projects\cg final project\cg final project\shader.h(64): warning C4101: “success”: 未引用的局部变量
+  stb_image.cpp
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewEnableVertexAttribArray
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewBindVertexArray
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewUseProgram
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewVertexAttribPointer
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewGetShaderiv
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewCompileShader
+main.obj : error LNK2001: 无法解析的外部符号 _aiGetMaterialTextureCount
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewCreateShader
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewBindBuffer
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewCreateProgram
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewUniform1i
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewGetShaderInfoLog
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewGetProgramiv
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewVertexAttribDivisor
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewGetUniformLocation
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewBufferData
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewAttachShader
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewActiveTexture
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewShaderSource
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewDrawElementsInstanced
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewGenVertexArrays
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewUniformMatrix4fv
+main.obj : error LNK2001: 无法解析的外部符号 "public: char const * __thiscall Assimp::Importer::GetErrorString(void)const " (?GetErrorString@Importer@Assimp@@QBEPBDXZ)
+main.obj : error LNK2001: 无法解析的外部符号 "public: struct aiScene const * __thiscall Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QAEPBUaiScene@@PBDI@Z)
+main.obj : error LNK2001: 无法解析的外部符号 "public: __thiscall Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QAE@XZ)
+main.obj : error LNK2001: 无法解析的外部符号 "public: __thiscall Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QAE@XZ)
+main.obj : error LNK2001: 无法解析的外部符号 _aiGetMaterialTexture
+main.obj : error LNK2001: 无法解析的外部符号 __imp__glewExperimental
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewGetProgramInfoLog
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewGenBuffers
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewGenerateMipmap
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewDeleteShader
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewLinkProgram
+main.obj : error LNK2001: 无法解析的外部符号 __imp__glewInit@0
+C:\Users\jason\Documents\Visual Studio 2015\Projects\CG Final Project\Release\CG Final Project.exe : fatal error LNK1120: 34 个无法解析的外部命令
