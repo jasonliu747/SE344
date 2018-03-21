@@ -1,8 +1,0 @@
-﻿  main.cpp
-c:\users\jason\documents\visual studio 2015\projects\cg final project\cg final project\shader.h(65): warning C4101: “infoLog”: 未引用的局部变量
-c:\users\jason\documents\visual studio 2015\projects\cg final project\cg final project\shader.h(64): warning C4101: “success”: 未引用的局部变量
-c:\users\jason\documents\visual studio 2015\projects\cg final project\cg final project\asteroid.h(47): warning C4018: “<”: 有符号/无符号不匹配
-c:\users\jason\documents\visual studio 2015\projects\cg final project\cg final project\asteroid.h(135): warning C4018: “<”: 有符号/无符号不匹配
-c:\users\jason\documents\visual studio 2015\projects\cg final project\cg final project\cosmic.h(114): warning C4018: “<”: 有符号/无符号不匹配
-  CG Final Project.vcxproj -> C:\Users\jason\documents\visual studio 2015\Projects\CG Final Project\Debug\CG Final Project.exe
-  CG Final Project.vcxproj -> C:\Users\jason\documents\visual studio 2015\Projects\CG Final Project\Debug\CG Final Project.pdb (Full PDB)
